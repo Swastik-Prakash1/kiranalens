@@ -646,25 +646,6 @@ uvicorn app.main:app --host 0.0.0.0 --port 8000 --workers 4
 
 ---
 
-## 📋 Adding Your Screenshots
-
-After running the app, take these screenshots and add them to `docs/images/`:
-
-```
-screenshot_01_upload.png     → The image upload drag-and-drop interface
-screenshot_02_gps.png        → The GPS input + location step
-screenshot_03_processing.png → The 7-stage processing progress screen
-screenshot_04_revenue.png    → The revenue estimate output (daily/monthly/income)
-screenshot_05_signals.png    → The signal dashboard (SDI, SKU, stability, demand)
-screenshot_06_fraud.png      → The fraud analysis + APPROVE/VERIFY/REJECT banner
-
-sample_shop_input.jpg        → A real kirana store photo you uploaded
-sample_output_approve.png    → The full results page for that store
-```
-
-The README table at the top will automatically display them once uploaded.
-
----
 
 ## 📜 License
 
