@@ -1,6 +1,6 @@
 > [!CAUTION]
 > ## 🚨🚨 **MANDATORY REQUIREMENT TO RUN THIS PROJECT** 🚨🚨  
-> ### 🔑 **Get your Hugging Face Token from here:**  
+> ### 🔑 **Get your Hugging Face Token from here:(For FREE)**  
 > 👉 **<a href="https://huggingface.co/settings/tokens" target="_blank">https://huggingface.co/settings/tokens</a>**  
 >
 > ⚠️ This project **WILL NOT WORK** without a valid Hugging Face access token.  
