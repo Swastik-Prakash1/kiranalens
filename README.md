@@ -52,7 +52,7 @@
 ---
 
 <p align="center">
-  📸 3 photographs · 📍 GPS coordinates · ⚡ 90 seconds  
+  📸 3 photographs · 📍 GPS coordinates · ⚡ JUST 20 seconds  
   <br/>
   💰 Unlocking India's ₹87 lakh crore kirana credit gap
 </p>
