@@ -15,32 +15,47 @@
 
 ---
 
-<div align="center">
+<h1 align="center">🛒 KiranaLens</h1>
+<p align="center">
+  <strong>Visual Credit Bureau for India's Kirana Economy</strong>
+</p>
 
-# 🏪 KiranaLens
+<p align="center">
+  CRP TenzorX 2026 · Poonawalla Fincorp National AI Hackathon · <b>Top 150 Teams</b>
+</p>
 
-### *Visual Credit Bureau for India's Kirana Economy*
+---
 
-**CRP TenzorX 2026 · Poonawalla Fincorp National AI Hackathon · Top 150 Teams**
+<p align="center">
+  <a href="https://python.org">
+    <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com">
+    <img src="https://img.shields.io/badge/FastAPI-0.111-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  </a>
+  <a href="https://reactjs.org">
+    <img src="https://img.shields.io/badge/React-TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  </a>
+  <a href="https://ultralytics.com">
+    <img src="https://img.shields.io/badge/YOLOv8-Ultralytics-FF6B35?style=for-the-badge"/>
+  </a>
+  <a href="https://huggingface.co">
+    <img src="https://img.shields.io/badge/🤗_HuggingFace-Llama_3.2-FFD21E?style=for-the-badge"/>
+  </a>
+</p>
 
-<br/>
-[![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![React](https://img.shields.io/badge/React-TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
-[![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-FF6B35?style=for-the-badge)](https://ultralytics.com)
-[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Llama_3.2-FFD21E?style=for-the-badge)](https://huggingface.co)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Cost](https://img.shields.io/badge/API_Cost-₹0_Free-success?style=for-the-badge)](https://huggingface.co/settings/tokens)
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API_Cost-₹0_Free-success?style=for-the-badge"/>
+</p>
 
-<br/>
+---
 
-> **3 photographs. GPS coordinates. 90 seconds.**
-> **The ₹87 lakh crore kirana credit gap — unlocked.**
-
-<br/>
-
-</div>
-
+<p align="center">
+  📸 3 photographs · 📍 GPS coordinates · ⚡ 90 seconds  
+  <br/>
+  💰 Unlocking India's ₹87 lakh crore kirana credit gap
+</p>
 ---
 
 ## 📸 Live Demo — Input → Output
