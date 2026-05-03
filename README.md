@@ -66,25 +66,6 @@
 
 <br/>
 
-### 📷 Sample: Shop Photo → Full Assessment
-
-<table>
-<tr>
-<td width="50%" align="center">
-<strong>Input: Shop Photograph</strong><br/><br/>
-<img src="docs/images/sample_shop_input.jpg" alt="Sample Kirana Store Input" width="100%"/>
-<br/><em>3–5 photos of interior shelves, counter, storefront</em>
-</td>
-<td width="50%" align="center">
-<strong>Output: Assessment Result</strong><br/><br/>
-<img src="docs/images/sample_output_approve.png" alt="Sample Assessment Output" width="100%"/>
-<br/><em>APPROVE · ₹10,400/day · Confidence 78% · 0 Risk Flags</em>
-</td>
-</tr>
-</table>
-
-<br/>
-
 ---
 
 ## 🎯 What is KiranaLens?
